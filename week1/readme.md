@@ -1,6 +1,8 @@
+# Questions to solve
 
-## 🔧 Coding Tasks Inspired by MIT Linear Algebra Lectures
+![alt text](image.png)
 
+## 🔧 Coding Tasks 
 ### ✅ **Task 1: Implement Gaussian Elimination**
 
 **Concept:** Solving systems of linear equations
